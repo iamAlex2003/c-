@@ -5,9 +5,6 @@ int main()
     // How to declare and initialize array
 
     int array[5]={2,4,6,8,10};
-    for(int i=0;i<5;i++){
-        cout<<array[i]<<endl;
-    }
 
     // how to print elements of array by their index no
     cout<<array[0]<<endl;
